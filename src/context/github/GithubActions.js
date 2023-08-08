@@ -1,6 +1,6 @@
 import axios from 'axios'
 const GITHUB_URL = process.env.REACT_APP_GITHUB_URL
-const GITHUB_TOKEN = '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'
+const GITHUB_TOKEN = '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'
 
 console.log(GITHUB_TOKEN)
 console.log(GITHUB_URL)
